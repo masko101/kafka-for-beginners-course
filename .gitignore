@@ -1,0 +1,9 @@
+target/*
+.idea/workspace.xml
+.idea/usage.statistics.xml
+.idea/tasks.xml
+.idea/shelf
+kafka-streams-filter-tweets/target
+kafka-twitter-producer/target
+kafka-basics/targer
+kafka-basics/target
